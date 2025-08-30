@@ -81,7 +81,7 @@ Sending 'cache' (184 KB)                           OKAY [  0.039s]\
 Writing 'cache'                                    OKAY [  0.025s]\
 Finished. Total time: 1.004s\
 Rebooting                                          OKAY [  0.000s]\
-Finished. Total time: 0.001s\
+Finished. Total time: 0.001s
 
 
   9. As you can see there were some errors - but the C2 rebooted after the code ran and now back to the "Getting Started" screeen.
