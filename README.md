@@ -6,7 +6,7 @@ If your Comma 2 will not boot and not boot past the comma logo - here are some i
 
 
 
-## How I got here**
+## How I got here
   1. I was stuck on the "Connect to WiFi" screen. A common issue with the fix found here https://github.com/jyoung8607/neos-manual-install
   2. There is an issue with the instructions above and that is what caused my C2 to not boot past the Comma.ai logo
   3. The last step from jyoung8607 instructs to download a Custom Fork
@@ -15,7 +15,7 @@ If your Comma 2 will not boot and not boot past the comma logo - here are some i
 I recommend not downloading a Custom Fork once you follow jyoung8607 instructions and gain adb access to your C2. 
 
 
-## How to re-flash your C2**
+## How to re-flash your C2
   0. These steps will take you back to the "Getting Started" screen adn the "Connect to WiFi" problem
   1. 	https://github.com/commaai/eon-neos/releases/tag/neos20
     	a. ota-signed-e5aa34ebb279777…. (818 MB - Oct 11, 2023)
