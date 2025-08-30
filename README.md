@@ -23,15 +23,15 @@ I recommend not downloading a Custom Fork once you follow jyoung8607 instruction
     	c. Source code (zip)  - Apr 18, 2022
   2. Extract the two .zip files
   3. Extract all files/directories to the same directory as the recovery.img
-  4. Your directory should look something like:
-     	download.py
-    	files (folder)
-    	flash.ps1
-    	flash.sh
-    	META-INF (folder)
-    	ota-signed-e5aa34….. (folder)
-    	README.md
-    	recovery.img
+  4. Your directory should look something like:\
+     	download.py\
+    	files (folder)\
+    	flash.ps1\
+    	flash.sh\
+    	META-INF (folder)\
+    	ota-signed-e5aa34….. (folder)\
+    	README.md\
+    	recovery.img\
   5. Modify the flash.sh file to skip the downloading part. I chose to comment out the original code
   6. Run flash.sh - in mac terminal ./flash.sh
   7. Here is what my output looked like in my Mac Terminal:
