@@ -71,8 +71,8 @@ Filesystem UUID: 8ff178c0-bf5f-4128-aad1-94e805e4745a\
 Superblock backups stored on blocks: \
 	32768\
 \
-Allocating group tables: done  \                          
-Writing inode tables: done      \                      
+Allocating group tables: done                            
+Writing inode tables: done                            
 Creating journal (4096 blocks): done\
 Writing superblocks and filesystem accounting information: done\
 \
