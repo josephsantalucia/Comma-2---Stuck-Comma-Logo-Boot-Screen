@@ -6,7 +6,7 @@ If your Comma 2 will not boot and not boot past the comma logo - here are some i
 
 
 
-## How I got here
+## How I got here 
   1. I was stuck on the "Connect to WiFi" screen. A common issue with the fix found here https://github.com/jyoung8607/neos-manual-install
   2. There is an issue with the instructions above and that is what caused my C2 to not boot past the Comma.ai logo
   3. The last step from jyoung8607 instructs to download a Custom Fork
